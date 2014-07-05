@@ -1,0 +1,4 @@
+<Files Album_one.zip>
+Order Deny,Allow
+Deny from all
+</Files>
